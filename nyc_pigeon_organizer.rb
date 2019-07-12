@@ -50,6 +50,6 @@ def nyc_pigeon_organizer(data)
     :gender ["female"],
     :lives ["Central Park"]
   }
-  }  
+}  
 end
 
