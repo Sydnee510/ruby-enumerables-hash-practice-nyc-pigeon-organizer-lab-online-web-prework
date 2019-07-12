@@ -38,6 +38,8 @@ def nyc_pigeon_organizer(data)
   }
 }
 end
+def nyc_pigeon_organizer(data)
+  pigeon_list = {
   "Luca" => {
     :color ["brown"],
     :gender ["male"],
