@@ -38,7 +38,8 @@ def nyc_pigeon_organizer(data)
 }
 end
 
-def pigeon_data = {
+def pigeon_data(data)
+  pigeon_data = {
   :color => {
     :brown => ["Luca"],
     :black => ["Lola"],
