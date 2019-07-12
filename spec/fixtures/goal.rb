@@ -1,5 +1,4 @@
 {  
-
   "Theo" => {
     :color => ["purple", "grey"],
     :gender => ["male"],
