@@ -1,4 +1,4 @@
-{
+{  
   "Theo" => {
     :color => ["purple", "grey"],
     :gender => ["male"],
@@ -33,5 +33,16 @@
     :color => ["white", "brown"],
     :gender => ["male"],
     :lives => ["Central Park"]
-  }
+  },
+  "Luca" => {
+    :color => ["brown"],
+    :gender => ["male"],
+    :lives => ["Library"]
+  },
+  "Lola" => {
+    :color => ["black"],
+    :gender => ["female"],
+    :lives => ["Central Park"]
+   }
+  
 }
