@@ -33,5 +33,6 @@
     :color => ["white", "brown"],
     :gender => ["male"],
     :lives => ["Central Park"]
-  }
+  },
+  
 }
